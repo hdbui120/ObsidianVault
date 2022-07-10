@@ -11,7 +11,8 @@
           "type": "markdown",
           "state": {
             "file": "Rocket Propulsion/Thrust and efficiency.md",
-            "mode": "preview"
+            "mode": "source",
+            "source": true
           }
         }
       },
@@ -23,7 +24,8 @@
           "type": "markdown",
           "state": {
             "file": "Rocket Propulsion/Thrust and efficiency.md",
-            "mode": "source"
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -119,10 +121,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c43e88a27ddf3a6",
+  "active": "0f2b3e67493caa1b",
   "lastOpenFiles": [
     "Rocket Propulsion/Thrust and efficiency.md",
     "Rocket Propulsion/Chamber Nozzle Theory.md",
+    "Rocket Propulsion/Pasted image 20220708175622.png",
     "Testing note.md"
   ]
 }

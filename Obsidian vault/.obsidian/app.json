@@ -6,5 +6,7 @@
     "nozzleExpansion"
   ],
   "fileSortOrder": "byCreatedTimeReverse",
-  "vimMode": true
+  "vimMode": true,
+  "legacyEditor": false,
+  "livePreview": false
 }
