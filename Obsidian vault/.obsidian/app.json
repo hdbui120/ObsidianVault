@@ -1,0 +1,10 @@
+{
+  "showLineNumber": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "nozzleExpansion"
+  ],
+  "fileSortOrder": "byCreatedTimeReverse",
+  "vimMode": true
+}

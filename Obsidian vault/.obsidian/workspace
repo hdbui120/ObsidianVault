@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "9fb25c5cd9febb30",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f2b3e67493caa1b",
+        "type": "leaf",
+        "dimension": 45.799457994579946,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rocket Propulsion/Thrust and efficiency.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "9c43e88a27ddf3a6",
+        "type": "leaf",
+        "dimension": 54.20054200542005,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rocket Propulsion/Thrust and efficiency.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d920a4bddbc013e",
+    "type": "split",
+    "children": [
+      {
+        "id": "05f0673581b7b110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2cb6b7f61b85298",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "18a8163f1b5e3249",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "190cb69c01d6bcf0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ceb60356e7ba7ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "2238876c004715b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d5302e72531d9e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rocket Propulsion/Thrust and efficiency.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a90537183ac9b16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9c43e88a27ddf3a6",
+  "lastOpenFiles": [
+    "Rocket Propulsion/Thrust and efficiency.md",
+    "Rocket Propulsion/Chamber Nozzle Theory.md",
+    "Testing note.md"
+  ]
+}
