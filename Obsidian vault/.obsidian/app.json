@@ -1,6 +1,6 @@
 {
   "showLineNumber": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
     "nozzleExpansion"

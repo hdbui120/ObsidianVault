@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "0f2b3e67493caa1b",
+        "id": "cb0518d3e25239d6",
         "type": "leaf",
-        "dimension": 45.799457994579946,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rocket Propulsion/Thrust and efficiency.md",
+            "file": "Drone/LiPo battery.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
-        }
+        },
+        "group": "f9f7694a19bf88c9"
       },
       {
-        "id": "9c43e88a27ddf3a6",
+        "id": "b6a41dc85779767c",
         "type": "leaf",
-        "dimension": 54.20054200542005,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rocket Propulsion/Thrust and efficiency.md",
+            "file": "Drone/LiPo battery.md",
             "mode": "preview",
-            "source": true
+            "source": false
           }
-        }
+        },
+        "group": "f9f7694a19bf88c9"
       }
     ],
     "direction": "vertical"
@@ -84,6 +84,7 @@
       {
         "id": "2238876c004715b1",
         "type": "tabs",
+        "dimension": 20.647773279352226,
         "children": [
           {
             "id": "1d5302e72531d9e5",
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rocket Propulsion/Thrust and efficiency.md",
+                "file": "Drone/LiPo battery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +116,35 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "aa3823229f764bc1",
+        "type": "tabs",
+        "dimension": 79.35222672064778,
+        "children": [
+          {
+            "id": "5369b6c23137d839",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 387.5,
     "collapsed": true
   },
-  "active": "0f2b3e67493caa1b",
+  "active": "cb0518d3e25239d6",
   "lastOpenFiles": [
-    "Rocket Propulsion/Thrust and efficiency.md",
+    "Drone/LiPo battery.md",
     "Rocket Propulsion/Chamber Nozzle Theory.md",
+    "Rocket Propulsion/Thrust and rocket equation.md",
+    "Rocket Propulsion/Rocket Efficiency.md",
     "Rocket Propulsion/Pasted image 20220708175622.png",
+    "Rocket Propulsion/Pasted image 20220708175622 1.png",
     "Testing note.md"
   ]
 }
