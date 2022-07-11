@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Drone/LiPo battery.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         },
@@ -23,7 +23,7 @@
           "type": "markdown",
           "state": {
             "file": "Drone/LiPo battery.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         },
@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9ceb60356e7ba7ee",
@@ -137,7 +138,7 @@
     "width": 387.5,
     "collapsed": true
   },
-  "active": "cb0518d3e25239d6",
+  "active": "b6a41dc85779767c",
   "lastOpenFiles": [
     "Drone/LiPo battery.md",
     "Rocket Propulsion/Chamber Nozzle Theory.md",
