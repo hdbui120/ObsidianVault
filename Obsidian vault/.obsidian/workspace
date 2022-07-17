@@ -4,30 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0518d3e25239d6",
+        "id": "e940a67ac58f52e6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drone/LiPo battery.md",
-            "mode": "preview",
-            "source": false
+            "file": "School/Fluid dynamics/Fluid Properties.md",
+            "mode": "source",
+            "source": true
           }
-        },
-        "group": "f9f7694a19bf88c9"
+        }
       },
       {
-        "id": "b6a41dc85779767c",
+        "id": "d1080a151c11cc65",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drone/LiPo battery.md",
-            "mode": "source",
-            "source": false
+            "file": "School/Fluid dynamics/Fluid Properties.md",
+            "mode": "preview",
+            "source": true
           }
-        },
-        "group": "f9f7694a19bf88c9"
+        }
+      },
+      {
+        "id": "dc1271db513a1ee0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rocket Propulsion/Thrust and rocket equation.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "d9a64f505f555f72",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Books/Paper Towns.md",
+            "mode": "source",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -93,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drone/LiPo battery.md",
+                "file": "School/Fluid dynamics/Fluid Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,13 +160,15 @@
     "width": 387.5,
     "collapsed": true
   },
-  "active": "b6a41dc85779767c",
+  "active": "e940a67ac58f52e6",
   "lastOpenFiles": [
-    "Drone/LiPo battery.md",
-    "Rocket Propulsion/Chamber Nozzle Theory.md",
+    "Books/Paper Towns.md",
     "Rocket Propulsion/Thrust and rocket equation.md",
+    "School/Fluid dynamics/Fluid Properties.md",
     "Rocket Propulsion/Rocket Efficiency.md",
     "Rocket Propulsion/Pasted image 20220708175622.png",
+    "Rocket Propulsion/Chamber Nozzle Theory.md",
+    "Drone/LiPo battery.md",
     "Rocket Propulsion/Pasted image 20220708175622 1.png",
     "Testing note.md"
   ]
