@@ -8,5 +8,7 @@
   "fileSortOrder": "byCreatedTimeReverse",
   "vimMode": true,
   "legacyEditor": false,
-  "livePreview": false
+  "livePreview": false,
+  "promptDelete": false,
+  "defaultViewMode": "preview"
 }

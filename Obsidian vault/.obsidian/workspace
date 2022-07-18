@@ -4,49 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "e940a67ac58f52e6",
+        "id": "73ef896170e3083d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/Fluid dynamics/Fluid Properties.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "d1080a151c11cc65",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "School/Fluid dynamics/Fluid Properties.md",
+            "file": "Rocket Propulsion/Thrust and rocket equation.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "dc1271db513a1ee0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rocket Propulsion/Thrust and rocket equation.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "d9a64f505f555f72",
+        "id": "bb4a7262511f9c09",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Books/Paper Towns.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6154d2b4b0638fd6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Books/Paper Towns.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -115,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fluid dynamics/Fluid Properties.md",
+                "file": "Books/Paper Towns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,16 +148,17 @@
     "width": 387.5,
     "collapsed": true
   },
-  "active": "e940a67ac58f52e6",
+  "active": "bb4a7262511f9c09",
   "lastOpenFiles": [
-    "Books/Paper Towns.md",
     "Rocket Propulsion/Thrust and rocket equation.md",
-    "School/Fluid dynamics/Fluid Properties.md",
-    "Rocket Propulsion/Rocket Efficiency.md",
-    "Rocket Propulsion/Pasted image 20220708175622.png",
-    "Rocket Propulsion/Chamber Nozzle Theory.md",
     "Drone/LiPo battery.md",
-    "Rocket Propulsion/Pasted image 20220708175622 1.png",
-    "Testing note.md"
+    "Books/Paper Towns.md",
+    "School/Fluid dynamics/Fluid Properties.md",
+    "Rocket Propulsion/Chamber Nozzle Theory.md",
+    "Pasted image 20220717180203.png.md",
+    "School/Fluid dynamics/Pasted image 20220717180539.png",
+    "School/Fluid dynamics/Pasted image 20220717180539 1.png",
+    "School/Fluid dynamics/Pasted image 20220717143629.png",
+    "Pasted image 20220717180405.png"
   ]
 }
