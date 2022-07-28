@@ -1,0 +1,21 @@
+- [ ] timeline
+- [ ] get a list of available DAQ options
+	- [ ] budget
+- [ ] get familiar with components
+	- [ ] pressure transducer, temperature sensor, load cell, pdp, voltage regulator, etc.
+		- [ ] sizing, and first principles
+	- [ ] scuff setup with arduino
+		- [ ] calibration
+		- [ ] circuit~wiring diagram
+		- [ ] read from sensors
+		- [ ] transfer data to host pc
+		- [ ] analyze/process the data (matlab or python or else)
+		- [ ] Display on GUI
+		- [ ] Perform some hardware control via GUI
+			- [ ] hardware status (on/off/turn position/etc.)
+		- [ ] Safety setup
+- [ ] Software libraries to use
+- [ ] Documentations and tasks delegation
+- [ ] sensors mounting schemes
+- [ ] interpreting data and come up with operating protocols
+- [ ] Design GUI
