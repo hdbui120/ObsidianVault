@@ -1,4 +1,9 @@
 - [ ] timeline
+	- Summer -> first half of fall quarter:
+		- complete arduino mock up system
+		- get familiar with the team and work flow
+		- have alogorithms/code for calibration and process data from different sensors (Steinhart)
+		- Nothing clearer for now as, hopefully, we'll learn more about things and be flexible to changes. 
 - [ ] get a list of available DAQ options
 	- [ ] budget
 - [ ] get familiar with components
@@ -16,6 +21,12 @@
 		- [ ] Safety setup
 - [ ] Software libraries to use
 - [ ] Documentations and tasks delegation
+	- Keep track of what you accomplish on GDrive
+	- Tasks will be up on notions
+	- We will share our work during meeting and discuss.  
 - [ ] sensors mounting schemes
 - [ ] interpreting data and come up with operating protocols
 - [ ] Design GUI
+
+---
+Main objective: We want to control the flow of fluids with hardware as well as gather and process data from sensors. All of which should be done in a simple robust manner. 
