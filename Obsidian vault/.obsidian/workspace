@@ -9,8 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "APL/scratch notes.md",
+            "file": "APL/Objectives.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6718bbffcb179320",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "APL/Objectives.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -73,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "90b923e80e55c228",
@@ -90,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APL/scratch notes.md",
+                "file": "APL/Objectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,12 +133,12 @@
   "active": "c91ea5811de78f10",
   "lastOpenFiles": [
     "APL/july27 meeting (1).md",
+    "APL/scratch notes.md",
     "Drone/LiPo battery.md",
     "Rocket Propulsion/Rocket Efficiency.md",
     "Rocket Propulsion/Thrust and rocket equation.md",
     "Rocket Propulsion/Chamber Nozzle Theory.md",
     "Fluid dynamics/Newton's 2nd Law (pressure and hydrostatic).md",
-    "APL/scratch notes.md",
     "Things you can't quantify.md",
     "Scratch paper.md",
     "APL/DAQ.md"

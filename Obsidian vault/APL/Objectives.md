@@ -30,3 +30,13 @@
 
 ---
 Main objective: We want to control the flow of fluids with hardware as well as gather and process data from sensors. All of which should be done in a simple robust manner. 
+
+--- 
+Arduino project:
+	- ==controllable shooting tower==
+	- Pan-tilt mechanism
+	- shooting mechanism similar to football launching machine
+	- control movement through computer 
+		- send motor encoder data to host pc
+		- PID for fixed angle
+	- tennis ball
