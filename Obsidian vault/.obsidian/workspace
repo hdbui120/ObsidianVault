@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "fb417420bd8a4e68",
+    "type": "split",
+    "children": [
+      {
+        "id": "c91ea5811de78f10",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "APL/scratch notes.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "ae85051d2b113bbd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "APL/scratch notes.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3e3c7547a7aa4b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf98c18bdf92a551",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb32d5b38d88cd72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dce0318c4aa3dd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1770453ae703e5e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "90b923e80e55c228",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b112be40ff479fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ef63c6a288dac06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "APL/scratch notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdd5d4d194891c02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c91ea5811de78f10",
+  "lastOpenFiles": [
+    "APL/july27 meeting (1).md",
+    "Drone/LiPo battery.md",
+    "Rocket Propulsion/Rocket Efficiency.md",
+    "Rocket Propulsion/Thrust and rocket equation.md",
+    "Rocket Propulsion/Chamber Nozzle Theory.md",
+    "Fluid dynamics/Newton's 2nd Law (pressure and hydrostatic).md",
+    "APL/scratch notes.md",
+    "Things you can't quantify.md",
+    "Scratch paper.md",
+    "APL/DAQ.md"
+  ]
+}
