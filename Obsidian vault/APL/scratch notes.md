@@ -1,0 +1,7 @@
+- [methods for synchronizing separated MCUs](https://electronics.stackexchange.com/questions/476561/need-a-method-for-synchronization-of-galvanically-separated-microcontrollers)
+	- this thread talks about software and harware options to synchronize MCUs
+	- there should already be a simple built-in way to do it with stm32
+- [an SME writing about DAQ](https://dewesoft.com/author/grant-maloy-smith)
+	- you can start reading about DAQ stuffs here. It's not too deep, but it could be.
+- [how to sync nucleo boards with hse](http://www.jiee.eu/wp-content/uploads/papers/vol2i2/v2i2_Jacko_Kovac.pdf)
+	- syncing nucleo slaves with a master device (HSE)
