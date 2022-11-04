@@ -45,3 +45,7 @@
 - [ ] Caught up on 106 lectures
 - [ ] Problem 1 of 180
 	- [ ] starting problem 2
+## ==11-03-22   ||   22:50==
+- [ ] Look into 180 project 7
+- [ ] Watch 2 lectures for 172
+- [ ] Hope new member task for Saturday 
