@@ -1,0 +1,5 @@
+- software for wiring and pcb design
+- wring diagram
+- coding
+	- OOP?
+	- 

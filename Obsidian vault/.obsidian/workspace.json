@@ -4,52 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "d19faaefd62b1305",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rocket Propulsion/ENG 140 Lec 1.md",
-            "mode": "source",
-            "source": true
+        "id": "e7889b41c00a42bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab745ef2cf34d80c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APL/System Requirements.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5c9488bac29babdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Daily Goals.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2bd731ed3e0d6753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Daily Goals.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "3d06ac1c286a3ea9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "APL/Grants.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "4b9e7329c8afeeed",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "APL/Controls onboarding.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "e4cb7050bd4ef6c3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "APL/Grants.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -67,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
             }
           },
           {
@@ -97,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9ceb60356e7ba7ee",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APL/Grants.md",
+                "file": "Personal/Daily Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,17 +158,17 @@
     "width": 387.5,
     "collapsed": true
   },
-  "active": "3d06ac1c286a3ea9",
+  "active": "5c9488bac29babdb",
   "lastOpenFiles": [
-    "APL/Controls onboarding.md",
     "APL/Grants.md",
-    "Rocket Propulsion/ENG 140 Lec 1.md",
-    "Rocket Propulsion/Rocket Efficiency.md",
-    "Personal/Education comentary.md",
-    "Books/Paper Towns.md",
-    "Fluid dynamics/Newton's 2nd Law (pressure and hydrostatic).md",
-    "School/Pasted image 20220926121918.png",
-    "Rocket Propulsion/Chamber Nozzle Theory.md",
-    "Rocket Propulsion/Thrust and rocket equation.md"
+    "Personal/Daily Goals.md",
+    "APL/System Requirements.md",
+    "Untitled.md",
+    "APL/Random resources.md",
+    "Untitled 2.md",
+    "APL/Sensors selection notes.md",
+    "APL/Meeting Notes.md",
+    "APL/task.md",
+    "APL/Control System Design.pdf"
   ]
 }

@@ -1,0 +1,1 @@
+- https://twitter.com/hypogolic/status/1392643342366691329 - fuel vs oxidizer lead injection

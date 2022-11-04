@@ -1,0 +1,23 @@
+## ==10-20-22   ||   15:32==
+- Database decision? csv or excel
+- Go?
+- Power
+	- Voltage regulator
+- Breakout board for DMA?
+- Built loop under 600 operations
+- every 64 sensors reading for a udp packet
+- mathy documentation?
+- 1 for writing 1 for reading
+	- 1 for reading and 1 for hardware control (DMA?)
+- everything in main loop
+- Note to self: 
+	- we need to discuss about data rate and limitations
+	- clearer purpose of dma
+	- what core does what
+- ### Announcement for discord
+	- Ben and Omar: database selection/handling, GUI design, UDP connection, format binary readings to udp packet.
+	- Daniel: component selection and design for power distribution. (3.3V,5V,10V,24V)
+	- Alex: Code layout (pinmode style instead of DDRD for now). SPI coms and hardware control.
+	- Hernandez: PCBs for adcs and teensy. DMA
+	- Hieu: finalize on hardware
+	- Summary: we discuss about database and decide to try out alternatives.  We will continue with Flutter for UI design (dart for frontend; Go for backend?). Briefly go over data rate and packet rate (need more rigorous calculations for documentation). Talked about how to approach programming the teensy (polling/interrupt and style of coding). 

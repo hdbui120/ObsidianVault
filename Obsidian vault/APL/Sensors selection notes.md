@@ -1,0 +1,6 @@
+- ### Thermocouples
+	- type T (Copper/constantan): stable and use for extremely low temperature such as cryo. 
+	- type B (Platinum Rhodium): highest temperature range
+		- follow by type R and S
+- Pressure transducer
+	- 
