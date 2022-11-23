@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c9488bac29babdb",
+            "id": "c3e9f47905309e97",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,7 @@
             }
           },
           {
-            "id": "c3e9f47905309e97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APL/Grants.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2bd731ed3e0d6753",
+            "id": "e2cc21e326a4a3b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9ceb60356e7ba7ee",
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APL/Grants.md",
+                "file": "Personal/Daily Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,10 +146,10 @@
     "width": 387.5,
     "collapsed": true
   },
-  "active": "c3e9f47905309e97",
+  "active": "e2cc21e326a4a3b3",
   "lastOpenFiles": [
-    "Personal/Daily Goals.md",
     "APL/Grants.md",
+    "Personal/Daily Goals.md",
     "APL/System Requirements.md",
     "Untitled.md",
     "APL/Random resources.md",

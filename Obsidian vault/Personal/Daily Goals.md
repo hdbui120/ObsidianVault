@@ -49,3 +49,10 @@
 - [ ] Look into 180 project 7
 - [ ] Watch 2 lectures for 172
 - [ ] Hope new member task for Saturday 
+## ==11-20-22   ||   16:53==
+- [x] ENG172 lectures and homework
+- [ ] ENG106 lectures
+- [x] Igniter control circuit
+## ==11-22-22   ||   00:32==
+- [x] ENG172 lecture and homework
+- [ ] ENG180 
